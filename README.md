@@ -16,4 +16,21 @@ TBA
 
 ## Navigating the codebase
 
-TBA
+We provide code for analytical tools for two types of models: vision and code. Below provides a high-level
+overview of what `code` and `vision_models` directories contain:
+
+```bash
+vision_models
+├── probing_transformer_models
+├── representation_effectiveness
+│   ├── fourier_heatmap
+│   ├── masking
+│   ├── pgd_attacks
+│   └── spectral_decomposition
+└── robustness-eval
+```
+
+```bash
+code
+(TBA)
+```
