@@ -34,3 +34,6 @@ vision_models
 code
 (TBA)
 ```
+
+Each directory provides a standalone `README.md` with instructions about executing the
+scripts / notebooks.
