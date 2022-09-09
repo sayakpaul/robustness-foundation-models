@@ -22,15 +22,15 @@ overview of what `code` and `vision_models` directories contain:
 ```bash
 vision_models
 ├── probing_transformer_models
-│   ├── attention-distance
-│   ├── attention-maps
-│   ├── linear-projections
-│   └── positional-embeddings
+│   ├── attention_distance
+│   ├── attention_maps
+│   ├── linear_projections
+│   └── positional_embeddings
 ├── representation_effectiveness
-│   ├── fourier_heatmap
-│   ├── masking
-│   ├── pgd_attacks
-│   └── spectral_decomposition
+│   ├── fourier_heatmap
+│   ├── masking
+│   ├── pgd_attacks
+│   └── spectral_decomposition
 └── robustness_eval
 ```
 
