@@ -6,10 +6,10 @@ learned by vision models that are based on Transformers [1].
 Each directory provides notebook(s) for probing the representations from a vision transformer type model. We focus on the vanilla
 ViT [2], DINO [5], and DeiT [6]. 
 
-* `attention-maps` shows how to generate attention maps from individual attention heads from the final transformer block. (Visually,) best results were obtained with DINO. Techniques include attention flow and attention rollout.
-* `attention-distance` deals with computing mean attention distance of the different attention heads.
-* `linear-projections` shows visualizations of the linear projection filters learned by ViTs.
-* `positional-embeddings` shows visualizations of the similarities of the positional embeddings learned by ViTs.
+* `attention_maps` shows how to generate attention maps from individual attention heads from the final transformer block. (Visually,) best results were obtained with DINO. Techniques include attention flow and attention rollout.
+* `attention_distance` deals with computing mean attention distance of the different attention heads.
+* `linear_projections` shows visualizations of the linear projection filters learned by ViTs.
+* `positional_embeddings` shows visualizations of the similarities of the positional embeddings learned by ViTs.
 
 These notebooks are based on the techniques investigated in [2, 3, 4, 5]. The notebooks have been taken from [this repository](https://github.com/sayakpaul/probing-vits/).  
 
