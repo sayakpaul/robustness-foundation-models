@@ -31,7 +31,7 @@ vision_models
 │   ├── masking
 │   ├── pgd_attacks
 │   └── spectral_decomposition
-└── robustness-eval
+└── robustness_eval
 ```
 
 ```bash
