@@ -1,6 +1,6 @@
 # Foundational Robustness of Foundation Models (NeurIPS 2022 tutorial)
 
-This repository holds code and other relevant files for the NeurIPS 2022 tutorial: [**Foundational Robustness of Foundation Models**](https://sites.google.com/view/neurips2022-frfm-turotial/) by [Pin-Yu Chen (IBM Research)](https://sites.google.com/site/pinyuchenpage/home), [Sijia Liu (Michigan State University)](https://lsjxjtu.github.io/), and [Sayak Paul (Carted)](https://sayak.dev).
+This repository holds code and other relevant files for the NeurIPS 2022 tutorial: [**Foundational Robustness of Foundation Models**](https://sites.google.com/view/neurips2022-frfm-turotial/) by [Pin-Yu Chen (IBM Research)](https://sites.google.com/site/pinyuchenpage/home), [Sijia Liu (Michigan State University)](https://lsjxjtu.github.io/), and [Sayak Paul (Hugging Face)](https://sayak.dev).
 
 <div align="center">
 <img src=https://user-images.githubusercontent.com/22957388/194623106-147c26fc-7350-4c28-9f01-a49e893e7ee2.png width=600/>
