@@ -6,7 +6,7 @@ This directory provide the notebook for evaluating robustness of programming lan
 
 * Supervised training .
 * Contrastive learning (Contracode) [4].
-* Robustness-aware Contrastive learning (CLAW)[tbd].
+* Robustness-aware Contrastive learning (CLAW)[5].
 
  
 
@@ -20,5 +20,5 @@ This directory provide the notebook for evaluating robustness of programming lan
 
 [4] Jain, Paras, and Ajay Jain. "Contrastive Code Representation Learning." Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing. 2021. , https://arxiv.org/pdf/2007.04973.pdf.
 
-[tbd]
+[5] Jinghan Jia, Srikant, Shashank, et al. "Having Both: Robust and Accurate Code Models ." 
 
