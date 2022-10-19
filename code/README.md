@@ -1,12 +1,12 @@
-This directory will contain code (notebooks / scripts) for evaluate robustness of programming language models that are based on Transformers [1].
+This directory contains a self-contained notebook (runnable on Google Colab) for evaluating the robustness of programming language models that are based on Transformers [1].
 
 ## Code navigation
 
-This directory provide the notebook for evaluating robustness of programming language models by using two  attack generation methods [2,3] in code domain. We focus on code summarization task, and provide three models to compare their performance. 
+This directory provide the notebook for evaluating robustness of programming language models by using two  attack generation methods [2, 3] in code domain. We focus on the code summarization task, and provide three models to compare their performance. 
 
-* Supervised training .
+* Supervised training.
 * Contrastive learning (Contracode) [4].
-* Robustness-aware Contrastive learning (CLAW)[5].
+* Robustness-aware Contrastive learning (CLAW) [5].
 
  
 
@@ -21,4 +21,3 @@ This directory provide the notebook for evaluating robustness of programming lan
 [4] Jain, Paras, and Ajay Jain. "Contrastive Code Representation Learning." Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing. 2021. , https://arxiv.org/pdf/2007.04973.pdf.
 
 [5] Jinghan Jia, Srikant, Shashank, et al. "Having Both: Robust and Accurate Code Models ." 
-
