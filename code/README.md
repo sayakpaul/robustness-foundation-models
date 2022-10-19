@@ -1,4 +1,4 @@
-This directory contains a self-contained notebook (runnable on Google Colab) for evaluating the robustness of programming language models that are based on Transformers [1].
+This directory contains a self-contained notebook named `Attack.ipynb` (runnable on Google Colab) for evaluating the robustness of programming language models that are based on Transformers [1].
 
 ## Code navigation
 
