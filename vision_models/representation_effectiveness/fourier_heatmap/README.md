@@ -11,3 +11,8 @@ $ gdown --id 1QtAJsTjBOf3CnrTzTTqP-nPnHcTc2g9E
 [`gdown`](https://pypi.org/project/gdown/) is a simple tool letting us download public Google Drive files in a seamless manner. Install it via - `pip install gdown`. Also, note that this is a resource-intensive experiment.
 
 We thank Justin Gilmer for helpful discussions. Justin is one of the authors of the paper ([A Fourier Perspective on Model Robustness in Computer Vision](https://arxiv.org/abs/1906.08988)) on which this experiment is based. 
+
+<div align="center">
+<img width="769" alt="image" src="https://user-images.githubusercontent.com/22957388/197405999-27bf07ca-60a8-430e-9d47-ed75205af8c1.png" width=600>
+</div>
+
