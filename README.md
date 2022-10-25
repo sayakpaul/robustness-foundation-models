@@ -6,7 +6,7 @@ This repository holds code and other relevant files for the NeurIPS 2022 tutoria
 <img src=https://user-images.githubusercontent.com/22957388/194623106-147c26fc-7350-4c28-9f01-a49e893e7ee2.png width=600/>
 </div>
 
-For details on schedule and the tutorial outline, please refer to our [tutorial website](https://sites.google.com/view/neurips2022-frfm-turotial/). 
+For details on schedule and the tutorial outline, please refer to our [tutorial website](https://sites.google.com/view/neurips2022-frfm-turotial/). You can also find the tutorial listing on [IBM Research](https://research.ibm.com/publications/foundational-robustness-of-foundation-models).
 
 ## Navigating the codebase
 
