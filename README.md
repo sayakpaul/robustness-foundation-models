@@ -36,6 +36,10 @@ code
 Each directory provides a standalone `README.md` with instructions about executing the
 scripts / notebooks.
 
+## Slides
+
+You can find the slides in the `slides` directory.
+
 ## Acknowledgements
 
 We thank [Jinghan Jia (Michigan State University)](https://www.linkedin.com/in/jinghan-jia-5194451ba) for contributing the code for evaluating "code" models.
