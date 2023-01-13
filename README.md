@@ -8,6 +8,8 @@ This repository holds code and other relevant files for the NeurIPS 2022 tutoria
 
 For details on schedule and the tutorial outline, please refer to our [tutorial website](https://sites.google.com/view/neurips2022-frfm-turotial/). You can also find the tutorial listing on [IBM Research](https://research.ibm.com/publications/foundational-robustness-of-foundation-models).
 
+**Update January 13, 2023**: Our tutorial video is now public. Find it [here](https://slideslive.com/38992789/foundational-robustness-of-foundation-models). 
+
 ## Navigating the codebase
 
 We provide code for analytical tools for two types of models: vision and code. Below provides a high-level
